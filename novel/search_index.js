@@ -15,5 +15,22 @@ window.blackSkyConfig = window.blackSkyConfig || {}; window.novelIndex = [
         0,
         "QA Engineer",
         "https://example.com/cover.jpg"
+    ],
+    [
+        2,
+        "Sub Sovereign",
+        "السيادة الفرعية",
+        "sub-sovereign",
+        [
+            1,
+            8
+        ],
+        0,
+        10,
+        0,
+        1783220599,
+        0,
+        "Alex",
+        "png"
     ]
 ];
