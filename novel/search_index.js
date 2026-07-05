@@ -1,8 +1,8 @@
 window.blackSkyConfig = window.blackSkyConfig || {}; window.novelIndex = [
     [
         1,
-        "Test Novel",
-        "رواية تجريبية",
+        "الاسم المعدل الجديد",
+        "الاسم المعدل الجديد",
         "test-novel-123",
         [
             "Action",
