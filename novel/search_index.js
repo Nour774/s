@@ -32,5 +32,22 @@ window.blackSkyConfig = window.blackSkyConfig || {}; window.novelIndex = [
         2,
         "Alex",
         "png"
+    ],
+    [
+        3,
+        "Sub Sovereign",
+        "السيادة الفرعية",
+        "sub-sovereign",
+        [
+            1,
+            82
+        ],
+        1,
+        10,
+        0,
+        1783221589,
+        0,
+        "Alex",
+        "jpg"
     ]
 ];
