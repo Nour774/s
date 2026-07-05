@@ -11,6 +11,13 @@ window.currentNovelData = {
       "type": "text",
       "contributor": "Alex_99",
       "data": "هنا يكتب نص الفصل بالكامل الذي سيتم تخزينه في المجلد الفرعي..."
+    },
+    {
+      "num": 2,
+      "title": "بداية ",
+      "type": "text",
+      "contributor": "Alex_99",
+      "data": "هنا يكتب نص الفصل بالكامل الذي سيتم تخزينه في المجلد الفرعي..."
     }
   ]
 };
