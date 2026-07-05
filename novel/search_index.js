@@ -45,8 +45,8 @@ window.blackSkyConfig = window.blackSkyConfig || {}; window.novelIndex = [
         1,
         10,
         0,
-        1783261760,
-        2,
+        1783261775,
+        3,
         "Alex",
         "jpg"
     ],
