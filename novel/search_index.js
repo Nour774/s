@@ -11,8 +11,8 @@ window.blackSkyConfig = window.blackSkyConfig || {}; window.novelIndex = [
         null,
         5,
         0,
-        1783220344,
-        0,
+        1783220749,
+        1,
         "QA Engineer",
         "https://example.com/cover.jpg"
     ],

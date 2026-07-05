@@ -4,5 +4,13 @@ window.currentNovelData = {
   "uploader_id": 1,
   "uploader_username": "tester",
   "description": "Ini adalah deskripsi novel untuk pengujian API.",
-  "chapters": []
+  "chapters": [
+    {
+      "num": 1,
+      "title": "بداية الفراغ",
+      "type": "text",
+      "contributor": "Alex_99",
+      "data": "هنا يكتب نص الفصل بالكامل الذي سيتم تخزينه في المجلد الفرعي..."
+    }
+  ]
 };
