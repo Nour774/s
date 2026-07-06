@@ -3,28 +3,19 @@ window.currentNovelData = {
   "slug": "test-novel-123",
   "uploader_id": 1,
   "uploader_username": "tester",
-  "description": "Ini adalah deskripsi novel untuk pengujian API.",
+  "description": "This is a test novel description",
   "chapters": [
     {
-      "num": 1,
-      "title": "بداية الفراغ",
+      "num": 3,
+      "title": "الفصل العاصف رقم 3",
       "type": "text",
-      "contributor": "Alex_99",
-      "data": "هنا يكتب نص الفصل بالكامل الذي سيتم تخزينه في المجلد الفرعي..."
+      "contributor": "Hacker_X"
     },
     {
-      "num": 2,
-      "title": "بداية ",
+      "num": 4,
+      "title": "الفصل العاصف رقم 4",
       "type": "text",
-      "contributor": "Alex_99",
-      "data": "هنا يكتب نص الفصل بالكامل الذي سيتم تخزينه في المجلد الفرعي..."
-    },
-    {
-      "num": 5,
-      "title": "بداية ",
-      "type": "text",
-      "contributor": "Alex_99",
-      "data": "هنا يكتب نص الفصل بالكامل الذي سيتم تخزينه في المجلد الفرعي..."
+      "contributor": "Hacker_X"
     }
   ]
 };

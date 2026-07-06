@@ -1,30 +1,51 @@
 window.currentNovelData = {
   "id": 3,
-  "slug": "sub-sovereign",
-  "uploader_id": 7,
-  "uploader_username": "Hyeon_Woo",
-  "description": "قصة تتحدث عن العوالم المتداخلة والسيادة المطلقة المفقودة في الفراغ...",
+  "slug": "stress-novel-20",
+  "uploader_id": 777,
+  "uploader_username": "Chaos_Engine",
+  "description": "وصف طويل تم توليده لاختبار قوة تحمل المستودع والملفات.",
   "chapters": [
     {
-      "num": 2,
-      "title": "الزسط",
+      "num": 14,
+      "title": "الفصل العاصف رقم 14",
       "type": "text",
-      "contributor": "Alex_99",
-      "data": "هنا يكتب نص الفصل بالكامل الذي سيتم تخزينه في المجلد الفرعي..."
+      "contributor": "Hacker_X"
     },
     {
-      "num": 1,
-      "title": "البداية",
+      "num": 28,
+      "title": "الفصل العاصف رقم 28",
       "type": "text",
-      "contributor": "Alex_99",
-      "data": "هنا يكتب نص الفصل بالكامل الذي سيتم تخزينه في المجلد الفرعي..."
+      "contributor": "Hacker_X"
     },
     {
-      "num": 3,
-      "title": "االنهاية",
+      "num": 577,
+      "title": "الفصل العاصف رقم 577",
       "type": "text",
-      "contributor": "Alex_99",
-      "data": "هنا يكتب نص الفصل بالكامل الذي سيتم تخزينه في المجلد الفرعي..."
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 578,
+      "title": "الفصل العاصف رقم 578",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 579,
+      "title": "الفصل العاصف رقم 579",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 691,
+      "title": "الفصل العاصف رقم 691",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 702,
+      "title": "الفصل العاصف رقم 702",
+      "type": "text",
+      "contributor": "Hacker_X"
     }
   ]
 };

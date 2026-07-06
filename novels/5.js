@@ -1,31 +1,25 @@
 window.currentNovelData = {
-  "id": 4,
-  "slug": "stress-novel-550",
+  "id": 5,
+  "slug": "stress-novel-555",
   "uploader_id": 777,
   "uploader_username": "Chaos_Engine",
   "description": "وصف طويل تم توليده لاختبار قوة تحمل المستودع والملفات.",
   "chapters": [
     {
-      "num": 12,
-      "title": "الفصل العاصف رقم 12",
+      "num": 24,
+      "title": "الفصل العاصف رقم 24",
       "type": "text",
       "contributor": "Hacker_X"
     },
     {
-      "num": 23,
-      "title": "الفصل العاصف رقم 23",
+      "num": 562,
+      "title": "الفصل العاصف رقم 562",
       "type": "text",
       "contributor": "Hacker_X"
     },
     {
-      "num": 574,
-      "title": "الفصل العاصف رقم 574",
-      "type": "text",
-      "contributor": "Hacker_X"
-    },
-    {
-      "num": 706,
-      "title": "الفصل العاصف رقم 706",
+      "num": 692,
+      "title": "الفصل العاصف رقم 692",
       "type": "text",
       "contributor": "Hacker_X"
     }
