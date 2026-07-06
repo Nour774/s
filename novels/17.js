@@ -12,6 +12,18 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 24,
+      "title": "الفصل العاصف رقم 24",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 32,
+      "title": "الفصل العاصف رقم 32",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 37,
       "title": "الفصل العاصف رقم 37",
       "type": "text",
@@ -120,6 +132,12 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 304,
+      "title": "الفصل العاصف رقم 304",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 319,
       "title": "الفصل العاصف رقم 319",
       "type": "text",
@@ -132,8 +150,32 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 363,
+      "title": "الفصل العاصف رقم 363",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 364,
       "title": "الفصل العاصف رقم 364",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 381,
+      "title": "الفصل العاصف رقم 381",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 386,
+      "title": "الفصل العاصف رقم 386",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 394,
+      "title": "الفصل العاصف رقم 394",
       "type": "text",
       "contributor": "Hacker_X"
     },

@@ -30,6 +30,12 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 79,
+      "title": "الفصل العاصف رقم 79",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 98,
       "title": "الفصل العاصف رقم 98",
       "type": "text",
@@ -114,6 +120,12 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 294,
+      "title": "الفصل العاصف رقم 294",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 303,
       "title": "الفصل العاصف رقم 303",
       "type": "text",
@@ -132,14 +144,44 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 321,
+      "title": "الفصل العاصف رقم 321",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 341,
+      "title": "الفصل العاصف رقم 341",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 343,
+      "title": "الفصل العاصف رقم 343",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 344,
       "title": "الفصل العاصف رقم 344",
       "type": "text",
       "contributor": "Hacker_X"
     },
     {
+      "num": 356,
+      "title": "الفصل العاصف رقم 356",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 359,
       "title": "الفصل العاصف رقم 359",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 383,
+      "title": "الفصل العاصف رقم 383",
       "type": "text",
       "contributor": "Hacker_X"
     },
@@ -188,6 +230,18 @@ window.currentNovelData = {
     {
       "num": 457,
       "title": "الفصل العاصف رقم 457",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 463,
+      "title": "الفصل العاصف رقم 463",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 464,
+      "title": "الفصل العاصف رقم 464",
       "type": "text",
       "contributor": "Hacker_X"
     },
