@@ -36,6 +36,24 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 349,
+      "title": "الفصل العاصف رقم 349",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 392,
+      "title": "الفصل العاصف رقم 392",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 597,
+      "title": "الفصل العاصف رقم 597",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 756,
       "title": "الفصل العاصف رقم 756",
       "type": "text",
