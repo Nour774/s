@@ -6,6 +6,48 @@ window.currentNovelData = {
   "description": "وصف طويل تم توليده لاختبار قوة تحمل المستودع والملفات.",
   "chapters": [
     {
+      "num": 128,
+      "title": "الفصل العاصف رقم 128",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 213,
+      "title": "الفصل العاصف رقم 213",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 253,
+      "title": "الفصل العاصف رقم 253",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 276,
+      "title": "الفصل العاصف رقم 276",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 284,
+      "title": "الفصل العاصف رقم 284",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 308,
+      "title": "الفصل العاصف رقم 308",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 311,
+      "title": "الفصل العاصف رقم 311",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 799,
       "title": "الفصل العاصف رقم 799",
       "type": "text",

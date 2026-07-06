@@ -18,6 +18,30 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 153,
+      "title": "الفصل العاصف رقم 153",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 201,
+      "title": "الفصل العاصف رقم 201",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 318,
+      "title": "الفصل العاصف رقم 318",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 328,
+      "title": "الفصل العاصف رقم 328",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 696,
       "title": "الفصل العاصف رقم 696",
       "type": "text",
