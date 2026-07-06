@@ -6,6 +6,12 @@ window.currentNovelData = {
   "description": "وصف طويل تم توليده لاختبار قوة تحمل المستودع والملفات.",
   "chapters": [
     {
+      "num": 17,
+      "title": "الفصل العاصف رقم 17",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 21,
       "title": "الفصل العاصف رقم 21",
       "type": "text",
@@ -30,8 +36,26 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 131,
+      "title": "الفصل العاصف رقم 131",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 136,
       "title": "الفصل العاصف رقم 136",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 137,
+      "title": "الفصل العاصف رقم 137",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 152,
+      "title": "الفصل العاصف رقم 152",
       "type": "text",
       "contributor": "Hacker_X"
     },
@@ -48,6 +72,24 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 187,
+      "title": "الفصل العاصف رقم 187",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 198,
+      "title": "الفصل العاصف رقم 198",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 204,
+      "title": "الفصل العاصف رقم 204",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 231,
       "title": "الفصل العاصف رقم 231",
       "type": "text",
@@ -60,8 +102,26 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 243,
+      "title": "الفصل العاصف رقم 243",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 244,
       "title": "الفصل العاصف رقم 244",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 248,
+      "title": "الفصل العاصف رقم 248",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 251,
+      "title": "الفصل العاصف رقم 251",
       "type": "text",
       "contributor": "Hacker_X"
     },
@@ -98,6 +158,12 @@ window.currentNovelData = {
     {
       "num": 366,
       "title": "الفصل العاصف رقم 366",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 399,
+      "title": "الفصل العاصف رقم 399",
       "type": "text",
       "contributor": "Hacker_X"
     },
