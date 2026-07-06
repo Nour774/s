@@ -348,6 +348,12 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 774,
+      "title": "الفصل العاصف رقم 774",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 786,
       "title": "الفصل العاصف رقم 786",
       "type": "text",
