@@ -6,6 +6,12 @@ window.currentNovelData = {
   "description": "This is a test novel description",
   "chapters": [
     {
+      "num": 2,
+      "title": "الفصل العاصف رقم 2",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 3,
       "title": "الفصل العاصف رقم 3",
       "type": "text",
@@ -38,6 +44,12 @@ window.currentNovelData = {
     {
       "num": 104,
       "title": "الفصل العاصف رقم 104",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 112,
+      "title": "الفصل العاصف رقم 112",
       "type": "text",
       "contributor": "Hacker_X"
     },

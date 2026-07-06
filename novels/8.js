@@ -18,6 +18,12 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 106,
+      "title": "الفصل العاصف رقم 106",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 117,
       "title": "الفصل العاصف رقم 117",
       "type": "text",
