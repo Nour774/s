@@ -6,6 +6,36 @@ window.currentNovelData = {
   "description": "وصف طويل تم توليده لاختبار قوة تحمل المستودع والملفات.",
   "chapters": [
     {
+      "num": 36,
+      "title": "الفصل العاصف رقم 36",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 44,
+      "title": "الفصل العاصف رقم 44",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 54,
+      "title": "الفصل العاصف رقم 54",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 61,
+      "title": "الفصل العاصف رقم 61",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 62,
+      "title": "الفصل العاصف رقم 62",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 139,
       "title": "الفصل العاصف رقم 139",
       "type": "text",
@@ -96,8 +126,26 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 461,
+      "title": "الفصل العاصف رقم 461",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 531,
+      "title": "الفصل العاصف رقم 531",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 613,
       "title": "الفصل العاصف رقم 613",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 656,
+      "title": "الفصل العاصف رقم 656",
       "type": "text",
       "contributor": "Hacker_X"
     },

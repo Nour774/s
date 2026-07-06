@@ -6,8 +6,20 @@ window.currentNovelData = {
   "description": "وصف طويل تم توليده لاختبار قوة تحمل المستودع والملفات.",
   "chapters": [
     {
+      "num": 66,
+      "title": "الفصل العاصف رقم 66",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 102,
       "title": "الفصل العاصف رقم 102",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 178,
+      "title": "الفصل العاصف رقم 178",
       "type": "text",
       "contributor": "Hacker_X"
     },
@@ -48,8 +60,50 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 462,
+      "title": "الفصل العاصف رقم 462",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 536,
+      "title": "الفصل العاصف رقم 536",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 537,
+      "title": "الفصل العاصف رقم 537",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 597,
       "title": "الفصل العاصف رقم 597",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 618,
+      "title": "الفصل العاصف رقم 618",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 623,
+      "title": "الفصل العاصف رقم 623",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 634,
+      "title": "الفصل العاصف رقم 634",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 661,
+      "title": "الفصل العاصف رقم 661",
       "type": "text",
       "contributor": "Hacker_X"
     },
@@ -74,6 +128,18 @@ window.currentNovelData = {
     {
       "num": 868,
       "title": "الفصل العاصف رقم 868",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 956,
+      "title": "الفصل العاصف رقم 956",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 962,
+      "title": "الفصل العاصف رقم 962",
       "type": "text",
       "contributor": "Hacker_X"
     }
