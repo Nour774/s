@@ -54,6 +54,12 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 56,
+      "title": "الفصل العاصف رقم 56",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 58,
       "title": "الفصل العاصف رقم 58",
       "type": "text",
@@ -198,6 +204,12 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 291,
+      "title": "الفصل العاصف رقم 291",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 298,
       "title": "الفصل العاصف رقم 298",
       "type": "text",
@@ -206,6 +218,12 @@ window.currentNovelData = {
     {
       "num": 312,
       "title": "الفصل العاصف رقم 312",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 318,
+      "title": "الفصل العاصف رقم 318",
       "type": "text",
       "contributor": "Hacker_X"
     },
@@ -242,6 +260,18 @@ window.currentNovelData = {
     {
       "num": 367,
       "title": "الفصل العاصف رقم 367",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 369,
+      "title": "الفصل العاصف رقم 369",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 377,
+      "title": "الفصل العاصف رقم 377",
       "type": "text",
       "contributor": "Hacker_X"
     },
@@ -338,6 +368,12 @@ window.currentNovelData = {
     {
       "num": 543,
       "title": "الفصل العاصف رقم 543",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 557,
+      "title": "الفصل العاصف رقم 557",
       "type": "text",
       "contributor": "Hacker_X"
     },
@@ -474,8 +510,20 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 938,
+      "title": "الفصل العاصف رقم 938",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 947,
       "title": "الفصل العاصف رقم 947",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 951,
+      "title": "الفصل العاصف رقم 951",
       "type": "text",
       "contributor": "Hacker_X"
     },
