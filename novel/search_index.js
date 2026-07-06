@@ -1,70 +1,37 @@
-window.blackSkyConfig = window.blackSkyConfig || {}; window.novelIndex = [
+window.blackSkyConfig = window.blackSkyConfig || {};
+window.novelIndex = [
     [
         1,
-        "الاسم المعدل الجديد",
-        "الاسم المعدل الجديد",
-        "25",
+        "Test Novel",
+        "رواية تجريبية",
+        "test-novel-123",
         [
             "Action",
             "Fantasy"
         ],
-        2,
-        5,
+        1,
+        10,
         0,
-        1783221439,
-        3,
+        1783304017,
+        0,
         "QA Engineer",
-        "https://example.com/cover.jpg"
+        "url"
     ],
     [
         2,
-        "Sub Sovereign",
-        "السيادة الفرعية",
-        "sub-sovereign",
+        "Test Novel",
+        "رواية تجريبية",
+        "test-novel-123",
         [
-            1,
-            8
-        ],
-        0,
-        10,
-        0,
-        1783220914,
-        2,
-        "Alex",
-        "png"
-    ],
-    [
-        3,
-        "Sub Sovereign",
-        "السيادة الفرعية",
-        "sub-sovereign",
-        [
-            1,
-            82
+            "Action",
+            "Fantasy"
         ],
         1,
         10,
         0,
-        1783261775,
-        3,
-        "Alex",
-        "jpg"
-    ],
-    [
-        4,
-        "Sub Sovereign",
-        "السيادة الفرعية",
-        "sub-sovereign",
-        [
-            1,
-            82
-        ],
-        1,
-        10,
+        1783304032,
         0,
-        1783221604,
-        0,
-        "Alex",
-        "jpg"
+        "QA Engineer",
+        "url"
     ]
 ];
