@@ -6,6 +6,30 @@ window.currentNovelData = {
   "description": "وصف طويل تم توليده لاختبار قوة تحمل المستودع والملفات.",
   "chapters": [
     {
+      "num": 56,
+      "title": "الفصل العاصف رقم 56",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 83,
+      "title": "الفصل العاصف رقم 83",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 86,
+      "title": "الفصل العاصف رقم 86",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 92,
+      "title": "الفصل العاصف رقم 92",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 93,
       "title": "الفصل العاصف رقم 93",
       "type": "text",
@@ -14,6 +38,18 @@ window.currentNovelData = {
     {
       "num": 97,
       "title": "الفصل العاصف رقم 97",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 109,
+      "title": "الفصل العاصف رقم 109",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 111,
+      "title": "الفصل العاصف رقم 111",
       "type": "text",
       "contributor": "Hacker_X"
     },
@@ -120,6 +156,18 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 671,
+      "title": "الفصل العاصف رقم 671",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 684,
+      "title": "الفصل العاصف رقم 684",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 697,
       "title": "الفصل العاصف رقم 697",
       "type": "text",
@@ -128,6 +176,12 @@ window.currentNovelData = {
     {
       "num": 704,
       "title": "الفصل العاصف رقم 704",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 712,
+      "title": "الفصل العاصف رقم 712",
       "type": "text",
       "contributor": "Hacker_X"
     },
@@ -150,8 +204,20 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 876,
+      "title": "الفصل العاصف رقم 876",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 878,
       "title": "الفصل العاصف رقم 878",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 903,
+      "title": "الفصل العاصف رقم 903",
       "type": "text",
       "contributor": "Hacker_X"
     },

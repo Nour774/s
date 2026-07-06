@@ -36,6 +36,18 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 78,
+      "title": "الفصل العاصف رقم 78",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 88,
+      "title": "الفصل العاصف رقم 88",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 139,
       "title": "الفصل العاصف رقم 139",
       "type": "text",
@@ -78,6 +90,12 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 316,
+      "title": "الفصل العاصف رقم 316",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 323,
       "title": "الفصل العاصف رقم 323",
       "type": "text",
@@ -92,6 +110,12 @@ window.currentNovelData = {
     {
       "num": 343,
       "title": "الفصل العاصف رقم 343",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 363,
+      "title": "الفصل العاصف رقم 363",
       "type": "text",
       "contributor": "Hacker_X"
     },
@@ -114,8 +138,20 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 421,
+      "title": "الفصل العاصف رقم 421",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 423,
       "title": "الفصل العاصف رقم 423",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 428,
+      "title": "الفصل العاصف رقم 428",
       "type": "text",
       "contributor": "Hacker_X"
     },
@@ -152,6 +188,24 @@ window.currentNovelData = {
     {
       "num": 699,
       "title": "الفصل العاصف رقم 699",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 731,
+      "title": "الفصل العاصف رقم 731",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 739,
+      "title": "الفصل العاصف رقم 739",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 751,
+      "title": "الفصل العاصف رقم 751",
       "type": "text",
       "contributor": "Hacker_X"
     },
