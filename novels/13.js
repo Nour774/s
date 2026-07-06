@@ -10,6 +10,36 @@ window.currentNovelData = {
       "title": "الفصل العاصف رقم 699",
       "type": "text",
       "contributor": "Hacker_X"
+    },
+    {
+      "num": 757,
+      "title": "الفصل العاصف رقم 757",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 863,
+      "title": "الفصل العاصف رقم 863",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 972,
+      "title": "الفصل العاصف رقم 972",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 983,
+      "title": "الفصل العاصف رقم 983",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 997,
+      "title": "الفصل العاصف رقم 997",
+      "type": "text",
+      "contributor": "Hacker_X"
     }
   ]
 };

@@ -16,6 +16,24 @@ window.currentNovelData = {
       "title": "الفصل العاصف رقم 22",
       "type": "text",
       "contributor": "Hacker_X"
+    },
+    {
+      "num": 98,
+      "title": "الفصل العاصف رقم 98",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 119,
+      "title": "الفصل العاصف رقم 119",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 818,
+      "title": "الفصل العاصف رقم 818",
+      "type": "text",
+      "contributor": "Hacker_X"
     }
   ]
 };

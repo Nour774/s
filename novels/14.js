@@ -16,6 +16,24 @@ window.currentNovelData = {
       "title": "الفصل العاصف رقم 703",
       "type": "text",
       "contributor": "Hacker_X"
+    },
+    {
+      "num": 798,
+      "title": "الفصل العاصف رقم 798",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 803,
+      "title": "الفصل العاصف رقم 803",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 991,
+      "title": "الفصل العاصف رقم 991",
+      "type": "text",
+      "contributor": "Hacker_X"
     }
   ]
 };

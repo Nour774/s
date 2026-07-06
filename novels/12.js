@@ -22,6 +22,30 @@ window.currentNovelData = {
       "title": "الفصل العاصف رقم 696",
       "type": "text",
       "contributor": "Hacker_X"
+    },
+    {
+      "num": 849,
+      "title": "الفصل العاصف رقم 849",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 969,
+      "title": "الفصل العاصف رقم 969",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 974,
+      "title": "الفصل العاصف رقم 974",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 977,
+      "title": "الفصل العاصف رقم 977",
+      "type": "text",
+      "contributor": "Hacker_X"
     }
   ]
 };

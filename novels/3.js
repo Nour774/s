@@ -46,6 +46,42 @@ window.currentNovelData = {
       "title": "الفصل العاصف رقم 702",
       "type": "text",
       "contributor": "Hacker_X"
+    },
+    {
+      "num": 747,
+      "title": "الفصل العاصف رقم 747",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 838,
+      "title": "الفصل العاصف رقم 838",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 861,
+      "title": "الفصل العاصف رقم 861",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 871,
+      "title": "الفصل العاصف رقم 871",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 973,
+      "title": "الفصل العاصف رقم 973",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 982,
+      "title": "الفصل العاصف رقم 982",
+      "type": "text",
+      "contributor": "Hacker_X"
     }
   ]
 };

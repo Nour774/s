@@ -4,5 +4,36 @@ window.currentNovelData = {
   "uploader_id": 777,
   "uploader_username": "Chaos_Engine",
   "description": "وصف طويل تم توليده لاختبار قوة تحمل المستودع والملفات.",
-  "chapters": []
+  "chapters": [
+    {
+      "num": 102,
+      "title": "الفصل العاصف رقم 102",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 756,
+      "title": "الفصل العاصف رقم 756",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 801,
+      "title": "الفصل العاصف رقم 801",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 813,
+      "title": "الفصل العاصف رقم 813",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 868,
+      "title": "الفصل العاصف رقم 868",
+      "type": "text",
+      "contributor": "Hacker_X"
+    }
+  ]
 };

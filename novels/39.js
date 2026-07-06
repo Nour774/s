@@ -1,0 +1,8 @@
+window.currentNovelData = {
+  "id": 39,
+  "slug": "stress-novel-115",
+  "uploader_id": 777,
+  "uploader_username": "Chaos_Engine",
+  "description": "وصف طويل تم توليده لاختبار قوة تحمل المستودع والملفات.",
+  "chapters": []
+};
