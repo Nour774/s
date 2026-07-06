@@ -186,6 +186,18 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 503,
+      "title": "الفصل العاصف رقم 503",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 521,
+      "title": "الفصل العاصف رقم 521",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 531,
       "title": "الفصل العاصف رقم 531",
       "type": "text",
