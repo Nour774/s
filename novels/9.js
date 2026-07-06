@@ -6,6 +6,12 @@ window.currentNovelData = {
   "description": "وصف طويل تم توليده لاختبار قوة تحمل المستودع والملفات.",
   "chapters": [
     {
+      "num": 47,
+      "title": "الفصل العاصف رقم 47",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 52,
       "title": "الفصل العاصف رقم 52",
       "type": "text",
@@ -14,6 +20,12 @@ window.currentNovelData = {
     {
       "num": 53,
       "title": "الفصل العاصف رقم 53",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 64,
+      "title": "الفصل العاصف رقم 64",
       "type": "text",
       "contributor": "Hacker_X"
     },
@@ -198,6 +210,12 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 577,
+      "title": "الفصل العاصف رقم 577",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 593,
       "title": "الفصل العاصف رقم 593",
       "type": "text",
@@ -216,6 +234,12 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 651,
+      "title": "الفصل العاصف رقم 651",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 664,
       "title": "الفصل العاصف رقم 664",
       "type": "text",
@@ -230,6 +254,18 @@ window.currentNovelData = {
     {
       "num": 682,
       "title": "الفصل العاصف رقم 682",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 683,
+      "title": "الفصل العاصف رقم 683",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 696,
+      "title": "الفصل العاصف رقم 696",
       "type": "text",
       "contributor": "Hacker_X"
     },

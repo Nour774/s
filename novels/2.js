@@ -12,6 +12,18 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 51,
+      "title": "الفصل العاصف رقم 51",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 61,
+      "title": "الفصل العاصف رقم 61",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 116,
       "title": "الفصل العاصف رقم 116",
       "type": "text",
@@ -198,14 +210,44 @@ window.currentNovelData = {
       "contributor": "Hacker_X"
     },
     {
+      "num": 592,
+      "title": "الفصل العاصف رقم 592",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 626,
+      "title": "الفصل العاصف رقم 626",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 646,
       "title": "الفصل العاصف رقم 646",
       "type": "text",
       "contributor": "Hacker_X"
     },
     {
+      "num": 649,
+      "title": "الفصل العاصف رقم 649",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
       "num": 657,
       "title": "الفصل العاصف رقم 657",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 692,
+      "title": "الفصل العاصف رقم 692",
+      "type": "text",
+      "contributor": "Hacker_X"
+    },
+    {
+      "num": 703,
+      "title": "الفصل العاصف رقم 703",
       "type": "text",
       "contributor": "Hacker_X"
     },
